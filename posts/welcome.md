@@ -1,6 +1,6 @@
 | title | description | author | date |
 | --- | --- | --- | --- |
-| “My first post” | "The jorney beggings” | "Guilherme Couto” | 2023-02-17 |
+| “My first post” | "The journey begging” | "Guilherme Couto” | 2023-02-17 |
 
 # Welcome
 
