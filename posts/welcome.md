@@ -1,9 +1,6 @@
----
-title: "My first post"
-description: "The jorney beggings"
-author: "Guilherme Couto"
-date: 2023-02-17
----
+| title | description | author | date |
+| --- | --- | --- | --- |
+| “My first post” | "The jorney beggings” | "Guilherme Couto” | 2023-02-17 |
 
 # Welcome
 
